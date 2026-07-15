@@ -1,35 +1,71 @@
-# Portfólio de QA da Dhébora
+# Portfólio de QA | Dhébora Beltrão
 
-Website responsivo de página única para apresentar projetos, casos de teste, competências e experiência voluntária.
+Website profissional desenvolvido para apresentar projetos, competências técnicas, casos de teste e experiência prática em Quality Assurance.
 
-## Abrir o website
+O portfólio reúne projetos web, mobile e API, com exemplos de cenários de teste, validações, bugs identificados e ferramentas utilizadas durante a formação e a experiência de voluntariado.
 
-Dê dois cliques em `index.html`. O website funciona localmente e não precisa de instalação.
+## Acesso ao portfólio
 
-## Atualizar conteúdo
+[Acessar website](https://dheborabeltrao-qa.github.io/)
 
-Abra `index.html` num editor de texto e procure por `CONTEÚDO EDITÁVEL`. Todo o conteúdo principal está dentro do objeto `PORTFOLIO`:
+## Projetos apresentados
 
-- `name`, `role`, `intro` e `about`: apresentação profissional
-- `projects`: projetos, ferramentas e casos em destaque
-- `timeline`: experiência e formação
-- `skills`: grupos de competências
-- `contacts`: e-mail, LinkedIn e GitHub
+| Projeto | Contexto | Principais atividades |
+| --- | --- | --- |
+| Mama Thula | Voluntariado em QA para aplicativo Android | Testes funcionais e de interface, comparação entre Figma e APK, validação de fluxos críticos e reporte de bugs |
+| Educabiz | Projeto de portfólio em mobile e web | Casos de teste de navegação, notificações, relatórios diários, evidências e experiência do utilizador |
+| Urban Scooter | Projeto final da formação em QA | Testes funcionais da jornada web, cenários positivos e negativos e execução cross-browser |
+| Urban Grocers API | Projeto de API Testing | Validação de endpoints, parâmetros, regras de negócio, status codes e corpo das respostas |
 
-Nos contactos, substitua `#` pelo endereço completo. Exemplo:
+## Competências demonstradas
 
-```js
-{ label: "LinkedIn", url: "https://www.linkedin.com/in/seu-perfil" }
-```
+- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- API Testing
+- Mobile Testing
+- Cross-browser Testing
+- Test Cases
+- Defect Tracking
+- Boundary Value Analysis
+- Partição de equivalência
+- Agile e Scrum
+- BDD e Gherkin
 
-## Publicar gratuitamente
+## Ferramentas e conhecimentos técnicos
 
-Uma opção simples é usar o GitHub Pages:
+- Jira
+- Postman
+- Chrome DevTools
+- Android Studio
+- Figma
+- Git e GitHub
+- SQL básico
+- Python
+- Selenium WebDriver
+- Pytest
+- Page Object Model
 
-1. Criar um repositório no GitHub.
-2. Enviar o arquivo `index.html`.
-3. Abrir `Settings`, depois `Pages`.
-4. Em `Build and deployment`, selecionar `Deploy from a branch`.
-5. Selecionar a branch principal e a pasta `/root`.
+## Recursos do website
 
-O website foi desenvolvido sem bibliotecas externas, fontes remotas ou imagens. Isso facilita a manutenção e torna o carregamento rápido.
+- Design responsivo para computador e dispositivos móveis
+- Filtros de projetos por Web, Mobile, API e Voluntariado
+- Casos de teste expansíveis
+- Navegação por secções em uma única página
+- Compatibilidade com navegação por teclado
+- Estrutura organizada para facilitar futuras atualizações
+
+## Tecnologias do website
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## Sobre a autora
+
+**Dhébora Beltrão**
+
+QA Tester Júnior com formação prática em testes web, mobile, API e automação. Experiência voluntária em produto Android, colaboração com Product Owner e equipa de desenvolvimento, documentação de evidências e reporte de defeitos.
+
+Localização: Lisboa, Portugal.
