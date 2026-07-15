@@ -12,7 +12,7 @@ O portfólio reúne projetos web, mobile e API, com exemplos de cenários de tes
 
 | Projeto | Contexto | Principais atividades |
 | --- | --- | --- |
-| Mama Thula | Voluntariado em QA para aplicativo Android | Testes funcionais e de interface, comparação entre Figma e APK, validação de fluxos críticos e reporte de bugs |
+| Mama Thula | Experiência em QA para aplicação Android | Testes funcionais e de interface, comparação entre Figma e APK, validação de fluxos críticos e reporte de bugs |
 | Educabiz | Projeto de portfólio em mobile e web | Casos de teste de navegação, notificações, relatórios diários, evidências e experiência do utilizador |
 | Urban Scooter | Projeto final da formação em QA | Testes funcionais da jornada web, cenários positivos e negativos e execução cross-browser |
 | Urban Grocers API | Projeto de API Testing | Validação de endpoints, parâmetros, regras de negócio, status codes e corpo das respostas |
