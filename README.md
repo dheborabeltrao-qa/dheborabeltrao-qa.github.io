@@ -62,10 +62,10 @@ O portfólio reúne projetos web, mobile e API, com exemplos de cenários de tes
 - JavaScript
 - GitHub Pages
 
-## Sobre a autora
+## Sobre mim
 
 **Dhébora Beltrão**
 
-QA Tester Júnior com formação prática em testes web, mobile, API e automação. Experiência voluntária em produto Android, colaboração com Product Owner e equipa de desenvolvimento, documentação de evidências e reporte de defeitos.
+QA Tester Júnior com formação prática em testes web, mobile, API e automação. Experiência real em produto Android, colaboração com Product Owner e equipa de desenvolvimento, documentação de evidências e reporte de defeitos.
 
 Localização: Lisboa, Portugal.
